@@ -1,0 +1,7 @@
+GIT
+git clone <url>:copy a whole repository from server
+git add <filename>:add files to server
+git commit -m "message":discribe the changes on the commit with a message
+git status:print the current commit on the repository(if just want to print one of files, git status <directoryPath>)
+git push:push commit to server
+git pull:pull down commit from server
